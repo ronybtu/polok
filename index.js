@@ -1,1 +1,0 @@
-onclick="document.getElementById('myImage').src='on.png'"
